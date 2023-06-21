@@ -24,13 +24,15 @@ Local Repository:
 git clone https://github.com/nivwer/FCC-boilerplate-arithmetic-formatter
 ```
 
-Inside the directory
 
+
+Inside the directory, set the environment variable.
 ```
-# Set the environment variable.
 export PYTHON_KEYRING_BACKEND=keyring.backends.null.Keyring
+```
 
-# Install dependencies and Activate the virtual environment.
+Install dependencies and Activate the virtual environment.
+```
 poetry install
 poetry bash
 ```
