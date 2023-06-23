@@ -13,8 +13,6 @@ Replit: <a href="https://replit.com/@nivwer/boilerplate-arithmetic-formatter">ht
 
 Click the "run" button and `main.py` will run.
 
-Alternatively you may run the tests by inputting `pytest` or `python3 main.py` in the console.
-
 
 <h2></h2>
 
