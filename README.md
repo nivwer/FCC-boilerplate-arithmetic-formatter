@@ -32,7 +32,7 @@ export PYTHON_KEYRING_BACKEND=keyring.backends.null.Keyring
 Install dependencies and Activate the virtual environment.
 ```
 poetry install
-poetry bash
+poetry shell
 ```
 
 If you want to test the solution you may run the tests by inputting `pytest` or `python3 main.py` in the console.
